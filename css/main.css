@@ -1,0 +1,30 @@
+
+  body {
+    background-color:#f9b;
+  }
+  h1{
+    font-family: sans-serif, serif, monospace, cursive, fantasy;
+    font-family: "Courier New", Courier, Monospace;
+    color: #000;
+    /* 0123456789abcdef */
+  }
+  h2{
+    font-family: Verdana, "Trebuchet MS", Arial, sans-serif;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    color: #778;
+  }
+  /* knockout background color */
+  span.bg-ko{
+    background-color: #f8a;
+  }
+  ul{
+padding: .25em 1.5em;
+border: 3px dotted #fff;
+}
+ol{
+padding: .25em 1.5em;
+border: 3px dotted #fff;
+}
+  li{
+    margin: 0 0 .5em 0;
+  }
