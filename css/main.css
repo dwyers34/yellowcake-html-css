@@ -1,6 +1,7 @@
 
-  body {
-    background-color:#f9b;
+    body {
+    background-color:#f99;
+    padding: 100px;
   }
   h1{
     font-family: sans-serif, serif, monospace, cursive, fantasy;
@@ -8,14 +9,17 @@
     color: #000;
     /* 0123456789abcdef */
   }
+  a {
+    color: #fff;
+  }
   h2{
     font-family: Verdana, "Trebuchet MS", Arial, sans-serif;
     font-family: Georgia, Times, "Times New Roman", serif;
-    color: #778;
+    color: #666;
   }
   /* knockout background color */
   span.bg-ko{
-    background-color: #f8a;
+    background-color: #f69;
   }
   ul{
 padding: .25em 1.5em;
